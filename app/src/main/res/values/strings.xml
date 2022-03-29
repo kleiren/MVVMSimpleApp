@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WhenToRun</string>
+
+    <string name="date_template">Date: %1$s</string>
+    <string name="temperature_template">Temp: %1$s ºC</string>
+    <string name="dialog_error_title">Error</string>
+    <string name="dialog_error_description">An unexpected error occurred</string>
+    <string name="dialog_error_ok">OK</string>
+    <string name="toolbar_xml_title">XML</string>
+    <string name="toolbar_xml_to_compose">To Compose</string>
+    <string name="toolbar_compose_title">Compose</string>
+    <string name="toolbar_compose_to_xml">To XML</string>
+    <string name="generic_error">An unexpected error occurred</string>
+    <string name="asd">OK</string>
+    <string name="location_permission_button">Request permission</string>
+    <string name="location_permission_description">This app needs your location</string>
+</resources>
